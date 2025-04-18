@@ -1,9 +1,5 @@
 # ThreadInJava
 
-### Author: Devershika Mohane  
-### PRN: 23070126032  
-### Batch: AIML A2  
-
 ## 📌 Description
 This program demonstrates multithreading in Java using both:
 - `Thread` class (via `MyThread`)
